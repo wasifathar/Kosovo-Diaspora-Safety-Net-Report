@@ -28,6 +28,10 @@ The analysis uses Excel datasets downloaded from [DataSphere](https://datasphere
 
 Datasets were accessed on 16 June 2026.
 
+## Data Note
+
+The raw datasets are sourced from DataSphere. Users should consult DataSphere for original data access and usage conditions. The code and analysis in this repository are provided by the author.
+
 ## Methodology
 
 The analysis is descriptive and exploratory. Because the data are annual macroeconomic time series with a limited number of observations, the project does not make strong causal claims.
